@@ -3,11 +3,23 @@
 This is a simple alarm clock web application built using HTML, CSS, and JavaScript. The application allows users to set an alarm for a specific time and plays an alarm sound when the set time is reached.
 
 To see live demo click [here](https://samanthaprogga.github.io/Alarm-Clock/)
+
+## Languages Used
+
+![JavaScript](https://img.shields.io/badge/CODE-JAVASCRIPT-blue?style=for-the-badge
+)
+![HTML5](https://img.shields.io/badge/WEB-HTML-blue?style=for-the-badge
+)
+![CSS3](https://img.shields.io/badge/WEB-CSS-blue?style=for-the-badge
+)
+
+
 ## Features
 
 - Set an alarm by specifying the hour and minute.
 - Get feedback on the alarm being set.
-- Play an alarm sound when the set time is reached.
+- Play an alarm sound when the set time is reached
+
 
 ## Getting Started
 
